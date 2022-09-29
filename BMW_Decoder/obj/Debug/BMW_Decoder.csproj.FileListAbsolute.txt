@@ -1,0 +1,20 @@
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.exe.config
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.exe
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.pdb
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csprojAssemblyReference.cache
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.Form1.resources
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.Properties.Resources.resources
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csproj.GenerateResource.cache
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csproj.CoreCompileInputs.cache
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.exe
+C:\Users\scrap\OneDrive\Документы\Visual Studio 2017\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.pdb
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.exe.config
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.exe
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\bin\Debug\BMW_Decoder.pdb
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csproj.AssemblyReference.cache
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.Form1.resources
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.Properties.Resources.resources
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csproj.GenerateResource.cache
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.csproj.CoreCompileInputs.cache
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.exe
+C:\Users\scrap\OneDrive\Projects\BMW_Decoder\BMW_Decoder\obj\Debug\BMW_Decoder.pdb

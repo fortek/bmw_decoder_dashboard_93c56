@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  NodeType="AppfuscatorMap">
+  <ProjectInfo
+    Version="2.6.0.30783"
+    Created="2018-10-28 16:02:49Z" />
+  <Childs>
+    <Node
+      NodeType="Assembly"
+      OldName="BMW_Decoder"
+      NewName="BMW_Decoder">
+      <AssemblyInfo
+        Name="BMW_Decoder"
+        Version="1.0.0.0"
+        AssemblyId="30e3e05a-8a71-4f43-a197-a1d78a54a9ac"
+        FileName="BMW_Decoder.exe">
+        <Sources>
+          <AssemblyInfo
+            Name="BMW_Decoder"
+            Version="1.0.0.0"
+            AssemblyId="30e3e05a-8a71-4f43-a197-a1d78a54a9ac"
+            FileName="BMW_Decoder.exe" />
+        </Sources>
+      </AssemblyInfo>
+      <Childs>
+        <Node
+          NodeType="Type"
+          OldName="&lt;Module&gt;"
+          NewName="&lt;Module&gt;"
+          ExcludedByReasons="ModuleType" />
+        <Node
+          NodeType="Type"
+          OldName="BMW_Decoder.Form1"
+          NewName="a">
+          <Childs>
+            <Node
+              NodeType="Field"
+              OldName="hexParam"
+              NewName="a" />
+            <Node
+              NodeType="Field"
+              OldName="components"
+              NewName="b" />
+            <Node
+              NodeType="Field"
+              OldName="pictureBox1"
+              NewName="c" />
+            <Node
+              NodeType="Field"
+              OldName="button1"
+              NewName="d" />
+            <Node
+              NodeType="Field"
+              OldName="richTextBox1"
+              NewName="e" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox1"
+              NewName="f" />
+            <Node
+              NodeType="Field"
+              OldName="label1"
+              NewName="g" />
+            <Node
+              NodeType="Field"
+              OldName="label2"
+              NewName="h" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox2"
+              NewName="i" />
+            <Node
+              NodeType="Field"
+              OldName="label3"
+              NewName="j" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox3"
+              NewName="k" />
+            <Node
+              NodeType="Field"
+              OldName="label4"
+              NewName="l" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox4"
+              NewName="m" />
+            <Node
+              NodeType="Field"
+              OldName="label5"
+              NewName="n" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox5"
+              NewName="o" />
+            <Node
+              NodeType="Field"
+              OldName="label6"
+              NewName="p" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox6"
+              NewName="q" />
+            <Node
+              NodeType="Field"
+              OldName="label7"
+              NewName="r" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox7"
+              NewName="s" />
+            <Node
+              NodeType="Field"
+              OldName="label8"
+              NewName="t" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox8"
+              NewName="u" />
+            <Node
+              NodeType="Field"
+              OldName="label9"
+              NewName="v" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox9"
+              NewName="w" />
+            <Node
+              NodeType="Field"
+              OldName="label10"
+              NewName="x" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox10"
+              NewName="y" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox11"
+              NewName="z" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox12"
+              NewName="aa" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox13"
+              NewName="bb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox14"
+              NewName="cb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox15"
+              NewName="db" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox16"
+              NewName="eb" />
+            <Node
+              NodeType="Field"
+              OldName="label11"
+              NewName="fb" />
+            <Node
+              NodeType="Field"
+              OldName="textBox1"
+              NewName="gb" />
+            <Node
+              NodeType="Field"
+              OldName="button2"
+              NewName="hb" />
+            <Node
+              NodeType="Field"
+              OldName="label12"
+              NewName="ib" />
+            <Node
+              NodeType="Field"
+              OldName="label13"
+              NewName="jb" />
+            <Node
+              NodeType="Field"
+              OldName="button3"
+              NewName="kb" />
+            <Node
+              NodeType="Field"
+              OldName="groupBox1"
+              NewName="lb" />
+            <Node
+              NodeType="Field"
+              OldName="linkLabel1"
+              NewName="mb" />
+            <Node
+              NodeType="Field"
+              OldName="linkLabel2"
+              NewName="nb" />
+            <Node
+              NodeType="Field"
+              OldName="groupBox2"
+              NewName="ob" />
+            <Node
+              NodeType="Field"
+              OldName="linkLabel3"
+              NewName="pb" />
+            <Node
+              NodeType="Field"
+              OldName="label15"
+              NewName="qb" />
+            <Node
+              NodeType="Field"
+              OldName="label14"
+              NewName="rb" />
+            <Node
+              NodeType="Field"
+              OldName="button4"
+              NewName="sb" />
+            <Node
+              NodeType="Field"
+              OldName="label16"
+              NewName="tb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox17"
+              NewName="ub" />
+            <Node
+              NodeType="Field"
+              OldName="label17"
+              NewName="vb" />
+            <Node
+              NodeType="Field"
+              OldName="label18"
+              NewName="wb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox18"
+              NewName="xb" />
+            <Node
+              NodeType="Field"
+              OldName="label19"
+              NewName="yb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox19"
+              NewName="zb" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox20"
+              NewName="ab" />
+            <Node
+              NodeType="Field"
+              OldName="label20"
+              NewName="cc" />
+            <Node
+              NodeType="Field"
+              OldName="label21"
+              NewName="dc" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox21"
+              NewName="ec" />
+            <Node
+              NodeType="Field"
+              OldName="label22"
+              NewName="fc" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox22"
+              NewName="gc" />
+            <Node
+              NodeType="Field"
+              OldName="comboBox23"
+              NewName="hc" />
+            <Node
+              NodeType="Field"
+              OldName="label23"
+              NewName="ic" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .ctor()"
+              NewName="System.Void .ctor()"
+              ExcludedByReasons="ConstructorMethod" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void button1_Click(System.Object, System.EventArgs)"
+              NewName="System.Void a(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox1_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void b(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox2_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void c(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox3_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void d(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox4_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void e(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox5_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void f(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox6_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void g(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox7_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void h(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox9_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void i(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox10_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void j(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox11_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void k(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox12_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void l(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox13_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void m(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox14_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void n(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox15_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void o(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox16_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void p(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void textBox1_KeyPress(System.Object, System.Windows.Forms.KeyPressEventArgs)"
+              NewName="System.Void q(System.Object, System.Windows.Forms.KeyPressEventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void button2_Click(System.Object, System.EventArgs)"
+              NewName="System.Void r(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void button3_Click(System.Object, System.EventArgs)"
+              NewName="System.Void s(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void linkLabel1_LinkClicked(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)"
+              NewName="System.Void t(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void linkLabel2_LinkClicked(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)"
+              NewName="System.Void u(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void linkLabel3_LinkClicked(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)"
+              NewName="System.Void v(System.Object, System.Windows.Forms.LinkLabelLinkClickedEventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void button4_Click(System.Object, System.EventArgs)"
+              NewName="System.Void w(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox17_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void x(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox18_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void y(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox19_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void z(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox20_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void aa(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox21_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void bb(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox22_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void cb(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox23_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void db(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void comboBox8_SelectedIndexChanged(System.Object, System.EventArgs)"
+              NewName="System.Void eb(System.Object, System.EventArgs)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void Dispose(System.Boolean)"
+              NewName="System.Void Dispose(System.Boolean)"
+              ExcludedByReasons="GroupMemberWithExternal" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void InitializeComponent()"
+              NewName="System.Void fb()" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .cctor()"
+              NewName="System.Void .cctor()"
+              ExcludedByReasons="StaticConstructorMethod" />
+            <Node
+              NodeType="Type"
+              OldName="BMW_Decoder.&lt;&gt;c"
+              NewName="&lt;&gt;c"
+              ExcludedByReasons="SerializableTypeAsMember">
+              <Childs>
+                <Node
+                  NodeType="Field"
+                  OldName="&lt;&gt;9"
+                  NewName="&lt;&gt;9"
+                  ExcludedByReasons="MemberInSerializableType" />
+                <Node
+                  NodeType="Field"
+                  OldName="&lt;&gt;9__24_0"
+                  NewName="&lt;&gt;9__24_0"
+                  ExcludedByReasons="MemberInSerializableType" />
+                <Node
+                  NodeType="Method"
+                  OldName="System.Void .cctor()"
+                  NewName="System.Void .cctor()"
+                  ExcludedByReasons="StaticConstructorMethod" />
+                <Node
+                  NodeType="Method"
+                  OldName="System.Void .ctor()"
+                  NewName="System.Void .ctor()"
+                  ExcludedByReasons="ConstructorMethod;MemberInSerializableType" />
+                <Node
+                  NodeType="Method"
+                  OldName="System.Byte &lt;button4_Click&gt;b__24_0(System.String)"
+                  NewName="System.Byte a(System.String)" />
+              </Childs>
+            </Node>
+          </Childs>
+        </Node>
+        <Node
+          NodeType="Type"
+          OldName="BMW_Decoder.Program"
+          NewName="b">
+          <Childs>
+            <Node
+              NodeType="Method"
+              OldName="System.Void Main()"
+              NewName="System.Void a()" />
+          </Childs>
+        </Node>
+        <Node
+          NodeType="Type"
+          OldName="BMW_Decoder.Properties.Resources"
+          NewName="c">
+          <Childs>
+            <Node
+              NodeType="Field"
+              OldName="resourceMan"
+              NewName="a" />
+            <Node
+              NodeType="Field"
+              OldName="resourceCulture"
+              NewName="b" />
+            <Node
+              NodeType="Property"
+              OldName="ResourceManager"
+              NewName="a" />
+            <Node
+              NodeType="Property"
+              OldName="Culture"
+              NewName="b" />
+            <Node
+              NodeType="Property"
+              OldName="BMW_logo_2000_2048x2048"
+              NewName="c" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .ctor()"
+              NewName="System.Void .ctor()"
+              ExcludedByReasons="ConstructorMethod" />
+            <Node
+              NodeType="Method"
+              OldName="System.Resources.ResourceManager get_ResourceManager()"
+              NewName="System.Resources.ResourceManager a()" />
+            <Node
+              NodeType="Method"
+              OldName="System.Globalization.CultureInfo get_Culture()"
+              NewName="System.Globalization.CultureInfo b()" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void set_Culture(System.Globalization.CultureInfo)"
+              NewName="System.Void c(System.Globalization.CultureInfo)" />
+            <Node
+              NodeType="Method"
+              OldName="System.Drawing.Bitmap get_BMW_logo_2000_2048x2048()"
+              NewName="System.Drawing.Bitmap d()" />
+          </Childs>
+        </Node>
+        <Node
+          NodeType="Type"
+          OldName="BMW_Decoder.Properties.Settings"
+          NewName="d">
+          <Childs>
+            <Node
+              NodeType="Field"
+              OldName="defaultInstance"
+              NewName="a" />
+            <Node
+              NodeType="Property"
+              OldName="Default"
+              NewName="a" />
+            <Node
+              NodeType="Method"
+              OldName="BMW_Decoder.Properties.Settings get_Default()"
+              NewName="d a()" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .ctor()"
+              NewName="System.Void .ctor()"
+              ExcludedByReasons="ConstructorMethod" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .cctor()"
+              NewName="System.Void .cctor()"
+              ExcludedByReasons="StaticConstructorMethod" />
+          </Childs>
+        </Node>
+      </Childs>
+    </Node>
+  </Childs>
+</Node>
